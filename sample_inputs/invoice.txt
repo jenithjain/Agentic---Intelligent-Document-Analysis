@@ -1,0 +1,11 @@
+Invoice #INV-2024-789
+Vendor: Tech Solutions Ltd.
+Client: Data Systems Inc.
+Date: 2024-05-30
+
+Items:
+- AI Server Rack: 10 units @ $12,500
+- Cooling System: 10 units @ $3,200
+
+Total Due: $157,000
+Payment Terms: Net 30

@@ -1,0 +1,13 @@
+From: jsmith@clientcompany.com
+Subject: URGENT: Defective GPU Batch #X-789
+Date: 2024-05-28
+
+Body:
+We received 50 units of your Model Z GPUs yesterday.
+25 units are overheating immediately on startup.
+This is CRITICAL for our production timeline.
+
+Required resolution by EOD tomorrow.
+John Smith
+Procurement Manager
+Client Company Inc.

@@ -1,0 +1,11 @@
+Subject: New Regulatory Compliance Update - GDPR Extension 2025
+
+The European Commission has issued a new amendment to GDPR applicable from July 1, 2025. Companies must now:
+
+- Log all cross-border data transfers explicitly
+- Provide AI usage explanations to end users
+- Maintain zero-retention policy on biometric data
+
+Failure to comply will result in penalties up to €20 million or 4% of global turnover.
+
+Refer to: Regulation (EU) 2025/1011

@@ -1,0 +1,9 @@
+From: procurement@abccorp.com
+Subject: Request for Quotation
+
+Hello, 
+
+We’d like a quotation for 500 units of product A and 200 of B. Please reply by June 1st.
+
+Thanks,
+Procurement Team
