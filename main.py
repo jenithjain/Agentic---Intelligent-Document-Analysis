@@ -209,7 +209,7 @@ if "selected_history_item" not in st.session_state:
     st.session_state.selected_history_item = None
 
 # Set your Gemini API key
-api_key = "AIzaSyBCYFsbfP8TDXVsX7Mbg7gjg_TCMrdfyDM"  # Replace with your actual key
+api_key = "******************************"  # Replace with your actual key
 genai.configure(api_key=api_key)
 
 # Load the Gemini model
